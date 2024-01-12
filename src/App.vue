@@ -94,6 +94,9 @@ console.log(useWeb3ModalAccount());
       console.log("Tokens", tokens.value);
       console.log(Network);
     }
+    else{
+      status.value = false;
+    }
 
   }
   watch(
