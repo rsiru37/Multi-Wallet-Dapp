@@ -123,7 +123,7 @@ console.log(useWeb3ModalAccount());
 
 
 
-  
+
 async function sol(){
   console.log("Entered");
   //const { solana } = window;
@@ -152,7 +152,7 @@ async function sol(){
 <template>
     <header>
       <div class="header" style="margin: auto; text-align: center;">
-      <h1 margin="auto">Welcome to a Test App</h1>
+      <h1 margin="auto">Multi Wallet Dapp</h1>
     </div>
   </header>
   <body>
