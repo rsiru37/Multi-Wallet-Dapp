@@ -1,29 +1,13 @@
-# mwfinal
+# Multi- Wallet - Dapp
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This is a basic test project that allows Users to connect over a 100 wallets and 2 wallets simultaneously on a different network and reads the token balances of the wallets connected on the basis of the network selected by the user.
 
 ## Project Setup
+1.) Clone the Repo
+2.) npm install
+3.) npm run dev
+And the frontend server gets started and you are good to go to the browser to try it out!
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Authors
+Raj Siruvani
+rajsiruvani@gmail.com
